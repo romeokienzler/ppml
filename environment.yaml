@@ -1,0 +1,10 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - tensorflow_federated
+  - tensorflow
+  - scipy
+  - pandas 
+  - nest_asyncio
